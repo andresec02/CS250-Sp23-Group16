@@ -5,3 +5,4 @@ Jonathan Siegel - Write Software Description, contributed with UML design
 
 Andres Choucair - helped sketch out the UML Diagram on IPAD and I also worked on the SWA Diagram within Draw IO
 
+-this is kyle im committing again
