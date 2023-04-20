@@ -10,3 +10,4 @@ Andres Choucair - helped sketch out the UML Diagram on IPAD and I also worked on
 -This is Jonathan, i'm committing again. The SDS: Test Plan has been uploaded to the github
 
 -kyle committing...
+-Andres committing for assignment 4
