@@ -11,3 +11,4 @@ Andres Choucair - helped sketch out the UML Diagram on IPAD and I also worked on
 
 -kyle committing...
 -Andres committing for assignment 4
+- Jonathan as well 
